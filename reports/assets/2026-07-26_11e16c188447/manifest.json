@@ -1,0 +1,13 @@
+{
+  "source_sc": "/tmp/tmp9g8pzkly/buildings2.sc",
+  "asset_dir": "/root/coc-datamine-reports/reports/assets/2026-07-26_11e16c188447",
+  "exports": [],
+  "skipped": [
+    {
+      "source_sc": "/tmp/tmp9g8pzkly/buildings2.sc",
+      "export_name": "new_builders_hut_boto",
+      "resource_id": 3080,
+      "reason": "texture 0 failed to decode: open /tmp/tmp9g8pzkly/buildings2_0.sctx: no such file or directory"
+    }
+  ]
+}
