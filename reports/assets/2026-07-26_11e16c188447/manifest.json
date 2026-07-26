@@ -1,0 +1,13 @@
+{
+  "source_sc": "/var/folders/q4/2jwfv1d12xl03lj5ld38lhh80000gn/T/tmpluxl06r7/buildings2.sc",
+  "asset_dir": "/private/tmp/claude-501/-Users-amti/899124a7-2c7f-4a82-8645-29bf71a95d70/scratchpad/coc-datamine-repo/reports/assets/2026-07-26_11e16c188447",
+  "exports": [],
+  "skipped": [
+    {
+      "source_sc": "/var/folders/q4/2jwfv1d12xl03lj5ld38lhh80000gn/T/tmpluxl06r7/buildings2.sc",
+      "export_name": "new_builders_hut_boto",
+      "resource_id": 3080,
+      "reason": "texture 0 failed to decode: open /var/folders/q4/2jwfv1d12xl03lj5ld38lhh80000gn/T/tmpluxl06r7/buildings2_0.sctx: no such file or directory"
+    }
+  ]
+}
