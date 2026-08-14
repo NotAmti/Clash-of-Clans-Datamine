@@ -2,7 +2,7 @@
 
 # ⛏️ Clash of Clans Datamine
 
-**Automated, unfiltered patch notes — pulled straight from Supercell's asset CDN the moment a new build ships.**
+**Automated, unfiltered patch notes, pulled straight from Supercell's asset CDN the moment a new build ships.**
 
 [![Last update](https://img.shields.io/github/last-commit/NotAmti/Clash-of-Clans-Datamine?style=flat-square&label=last%20update&color=f6c343&labelColor=1a1a1a)](../../commits/main)
 [![Reports](https://img.shields.io/github/directory-file-count/NotAmti/Clash-of-Clans-Datamine/reports?style=flat-square&label=reports&color=4caf50&labelColor=1a1a1a)](reports/)
@@ -13,7 +13,7 @@
 
 ---
 
-No teasers, no marketing copy — just the numbers Supercell actually shipped. A Discord bot watches for new Clash of Clans releases, pulls the raw game-data files out of each one, and diffs them against the last known snapshot. What comes out is checked into [`reports/`](reports/): every new unit, every level added, every stat nudged up or down.
+No teasers, no marketing copy, just the numbers Supercell actually shipped. A Discord bot watches for new Clash of Clans releases, pulls the raw game-data files out of each one, and diffs them against the last known snapshot. What comes out is checked into [`reports/`](reports/): every new unit, every level added, every stat nudged up or down.
 
 ## What gets tracked
 
@@ -68,11 +68,11 @@ Every file in [`reports/`](reports/) is named `YYYY-MM-DD_<fingerprint>.md` and 
 |---|---|---|
 | 0 | 50 | 2 |
 
-Below that, one section per category that actually changed — new units with their headline stats, level-by-level stat tables, and **bulk rollouts**: the same exact value swap applied across dozens of entries at once, which usually means a global mechanic change rather than individual balance tuning. Nothing is truncated; this is the full diff, not a highlight reel.
+Below that, one section per category that actually changed: new units with their headline stats, level-by-level stat tables, and **bulk rollouts**, the same exact value swap applied across dozens of entries at once, which usually means a global mechanic change rather than individual balance tuning. Nothing is truncated; this is the full diff, not a highlight reel.
 
 ## Why this exists
 
-Clash of Clans patch notes are often vague or delayed. The raw game-data CSVs Supercell ships in every build aren't — they're the literal numbers the client runs on. This repo just makes them visible, automatically, the moment they change.
+Clash of Clans patch notes are often vague or delayed. The raw game-data CSVs Supercell ships in every build aren't; they're the literal numbers the client runs on. This repo just makes them visible, automatically, the moment they change.
 
 ---
 
