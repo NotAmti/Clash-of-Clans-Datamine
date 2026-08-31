@@ -1,0 +1,13 @@
+{
+  "source_sc": "/tmp/tmp1r5vrbgn/buildings.sc",
+  "asset_dir": "/root/coc-datamine-reports/reports/assets/2026-08-31_95c0ae5e9529",
+  "exports": [],
+  "skipped": [
+    {
+      "source_sc": "/tmp/tmp1r5vrbgn/buildings.sc",
+      "export_name": "goblin_clancastle_01",
+      "resource_id": 9488,
+      "reason": "texture 35 failed to decode: open /tmp/tmp1r5vrbgn/buildings_35.sctx: no such file or directory"
+    }
+  ]
+}
